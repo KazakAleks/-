@@ -1,0 +1,18 @@
+<html>
+      <body><header><h1> Сайт про роблэкс. </h1></header>
+      <main>
+            <h2> Что это такое? </h2>
+            <p><h3> Это платформа для создания своих игр и просмотра чужых. </h3></p>
+            <table style="border:1px solid Brown">
+                  <tr>
+                        <td style="border:1px solid Brown"><h3> платформа для создания игр. </h3></td>
+                        <td style="border:1px solid Brown"><h3> Можно делать свои игры. </h3></td>
+                  </tr>
+                  <tr>
+                        <td style="border:1px solid Brown"><h3> Стандартная платформа. </h3></td>
+                        <td style="border:1px solid Brown"><h3> Просмотр чужы х игр. </h3></td>
+                  </tr>
+            </table>
+      </main>
+      </body>
+</html>
